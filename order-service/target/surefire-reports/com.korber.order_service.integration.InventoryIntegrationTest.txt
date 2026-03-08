@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.korber.order_service.integration.InventoryIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.519 s -- in com.korber.order_service.integration.InventoryIntegrationTest

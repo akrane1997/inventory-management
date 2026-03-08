@@ -1,0 +1,4 @@
+com\korber\order_service\integration\InventoryIntegrationTest.class
+com\korber\order_service\controller\OrderControllerTest.class
+com\korber\order_service\OrderServiceApplicationTests.class
+com\korber\order_service\service\OrderServiceTest.class
